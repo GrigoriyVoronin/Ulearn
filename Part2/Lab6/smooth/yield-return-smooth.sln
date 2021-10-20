@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yield-return-smooth", "yield-return-smooth.csproj", "{BA12A5CD-FF42-4D24-AB0A-2458B8A70FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA12A5CD-FF42-4D24-AB0A-2458B8A70FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA12A5CD-FF42-4D24-AB0A-2458B8A70FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA12A5CD-FF42-4D24-AB0A-2458B8A70FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA12A5CD-FF42-4D24-AB0A-2458B8A70FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3BB705F-6629-4D52-99F5-CC7C24D9D898}
+	EndGlobalSection
+EndGlobal
